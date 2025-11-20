@@ -1,0 +1,135 @@
+*{
+    font-family: "poppins",sans-serif;
+}
+
+figure{
+    display: inline-block;
+    margin: 0%;
+    height: 50px;
+}
+.Logo{
+    height: 30px;
+    width: 130px;
+    margin: 10px;
+}
+h1{
+    font-weight: 600;
+}
+.Login-form{
+    margin-top: 30px;
+    border: 2px solid black;
+    height: 420px;
+    width: 295px;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0,0.2);
+    border: none;
+    border-radius: 8px;
+    padding-left: 5px;
+}
+div.Form{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+input{
+    margin-left: 25px;
+    padding: 8px 60px 8px 5px;
+    margin-top: 15px;
+    outline: none;
+    border-radius: 3px;
+    border: solid 1px  rgb(0, 0, 0,0.6);
+}
+.form-button{
+    background-color: blue;
+    color: white;
+    padding: 10px 95px 8px 95px;
+    border-radius: 30px;
+    border: blue;
+    margin-bottom: 0px;
+    cursor: pointer;
+}
+.form-button2{
+    background-color: white;
+    color: rgb(0, 0, 0,0.8);
+    margin-left: 30px;
+    padding: 9px 40px 9px 40px;
+    border-radius: 30px;
+    border: 1px solid rgb(0, 0, 0,0.7);
+    margin-top: 0px;
+    cursor: pointer;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-size: 13px;
+    margin-left: 30px;
+    font-weight: 500;
+    color: blueviolet;
+}
+.Stay{
+    font-size: 11px;
+    margin-left: 20px;
+}
+h1{
+    margin-left: 20px;
+    margin-bottom:0px ;
+}
+.New-to-Linkedin p{
+    margin-top: 30px;
+    text-align: center;
+    font-size: small;
+}
+.Join{
+    margin-left: 6px;
+}
+.Footer a{
+    color:darkslategrey;
+    font-weight: 500;
+}
+.Footer{
+    position: fixed;
+    bottom: 0%;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+.Footer li{
+    display: inline;
+}
+.Logo-2{
+    height: 15px;
+    width: 60px;
+    margin-right: 5px;
+    position: relative;
+    top: 2px;
+}
+.year{
+    font-size: small;
+}
+a.Year{
+    color: black;
+}
+.Main{
+    display: flex;
+    justify-content: center;
+    padding-left: 30px;
+}
+.sub1{
+    width: 90px;
+    height: 25px;
+    border-bottom: solid 1px rgb(0, 0, 0,0.3);
+    margin-right: 10px;
+}
+.sub2{
+    width: 100px;
+    border-bottom: solid 1px  rgb(0, 0, 0,0.3);
+    height: 25px;
+    margin-left: 10px;
+}
+.form-button:hover{
+    background-color: navy;
+}
+.form-button2:hover{
+    background-color: rgba(206, 196, 196, 0.6);
+}
+

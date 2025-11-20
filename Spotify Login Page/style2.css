@@ -1,0 +1,73 @@
+* {
+  padding: 0%;
+  padding: 0%;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  background-color: rgb(35, 35, 35);
+  display: flex;
+  justify-content: center;
+}
+.Form {
+  background-color: rgba(0, 0, 0, 0.525);
+  color: white;
+  border: 1px solid black;
+  height: 750px;
+  width: 339px;
+  border: none;
+}
+.Heading{
+    text-align: center;
+    font-size: 13px;
+    font-weight: lighter;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+.Back-button{
+    text-decoration: none;
+    color: white;
+    position: relative;
+    right: 60px;
+    font-size: 22px;
+}
+.Back-button:hover{
+  color: rgba(255, 255, 255, 0.644);
+}
+.Input-Text{
+    padding: 13px 130px 13px 15px;
+    border-radius: 3px;
+    border: none;
+    background-color: rgb(69, 69, 69);
+    margin-left: 13px;
+    margin-top: 3px;
+    color: white;
+    outline-color:black;
+}
+label{
+      margin-left: 13px;
+      font-size: 18px;
+}
+.Small-text{
+    font-size: 8px;
+    margin-left: 14px;
+    color: rgba(255, 255, 255, 0.862);
+    position: relative;
+    bottom: 5px;
+}
+#Continue{
+    color: rgb(0, 0, 0);
+    background-color: rgb(80, 80, 80);
+    border: none;
+    padding: 13px 30px 13px 30px;
+    border-radius: 20px;
+    font-weight: 700;
+    position: relative;
+    left: 30%;
+    top: 16px;
+    cursor: pointer;
+}
+#Continue:hover{
+  background-color: rgb(59, 59, 59);
+}
+
