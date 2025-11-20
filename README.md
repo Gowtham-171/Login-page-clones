@@ -25,8 +25,27 @@ This project showcases my front-end skills in layout design, UI recreation, styl
 ## 📸 Preview
 
 **🔵 Facebook Loginpage**
+
 ![Preview](Preview-images/facebook-preview.png)
 
+---
+
+**🟣 Instagram Loginpage**
+
+![Preview](Preview-images/instagram-preview.png)
+
+---
+
+**🔵 LinkedIn Loginpage**
+
+![Preview](Preview-images/linkedin-preview.png)
+
+---
+
+**🟢 Spotify Loginpage**
+
+![Preview](Preview-images/spotify-preview1.png)
+![Preview](Preview-images/spotify-preview2.png)
 
 
 ---
