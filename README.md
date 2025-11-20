@@ -24,7 +24,9 @@ This project showcases my front-end skills in layout design, UI recreation, styl
 
 ## 📸 Preview
 
-## 🔵 Facebook Loginpage
-![Preview](images/facebook-preview.png)
+**🔵 Facebook Loginpage**
+![Preview](Preview-images/facebook-preview.png)
+
+
 
 ---
